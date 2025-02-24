@@ -7,6 +7,7 @@
 
 ## AAAI 2025 Hackathon Entry
 **Theme: AI for Mental Health and Wellbeing**
+** Hackathon Themes Correlation - AI for healthcare and AI for social good
 
 ### ✅ Hackathon Compliance
 - [x] Team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
