@@ -11,10 +11,10 @@
 ### ✅ Hackathon Compliance
 - [x] Team members agree to abide by the [Hackathon Rules](https://aaai.org/conference/aaai/aaai-25/hackathon/)
 - [x] Project created during hackathon period (February 17 – February 24, 2025)
-- [x] Demo video (2 minutes): (TODO)
+- [x] Demo video (2 minutes): [Watch Demo](https://drive.google.com/file/d/1Nl4XsQ6cpjf41L4Q_FTxqGsGTaUXwh1N/view)
 
 ## 🎯 Project Overview
-ArtMind is an innovative application that combines computer vision, AI, and art therapy principles to analyze user-created artwork and provide insights into their mental state. The tool offers a non-invasive way to explore emotional expression through art, making mental health reflection more accessible and engaging.
+This is an innovative application that combines computer vision, AI, and art therapy principles to analyze user-created artwork and provide insights into their mental state. The tool offers a non-invasive way to explore emotional expression through art, making mental health reflection more accessible and engaging.
 
 ## 🚀 Key Features
 - **Image Analysis**: Advanced computer vision analysis of colors, textures, and composition
