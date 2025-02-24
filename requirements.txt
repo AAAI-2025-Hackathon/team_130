@@ -1,7 +1,10 @@
 streamlit
+groq
+python-dotenv
 pillow
 opencv-python
 numpy
 scikit-image
+fpdf2==2.7.6
 plotly
 pandas 
